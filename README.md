@@ -1,4 +1,4 @@
-# Beautiful Repository
+# Logistic Rgression for churn prediction
 
   This is the lab in which we have to learn how to make a `read.me` file structured, readable and interesting for possible lectors.
   To do that, we have created a new repository in which we have added the __Logistic Regression__ exercise notebook.
